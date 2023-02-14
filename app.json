@@ -38,18 +38,18 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "ꜱᴀʜᴀɴ ᴏꜰꜰɪᴄɪᴀʟ" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94770591348" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
@@ -156,7 +156,7 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
